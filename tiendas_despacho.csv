@@ -1,220 +1,246 @@
 id_tienda, comuna
-0, El Bosque
-0, La Reina
-0, Huechuraba
-0, San Bernardo
-0, Lo Prado
-1, Estación Central
-1, La Pintana
-1, Lo Espejo
-1, Pedro Aguirre Cerda
-1, San Miguel
-2, Conchalí
+0, Lo Espejo
+1, Lo Barnechea
+1, Quilicura
+1, Conchalí
+2, Las Condes
+2, Recoleta
 2, San José de Maipo
-2, Lo Espejo
+2, San Bernardo
+2, San Joaquín
+2, Conchalí
 2, Lo Prado
-2, El Bosque
-2, Huechuraba
-3, Lo Espejo
-3, La Pintana
-3, Santiago
-3, San Bernardo
-3, La Florida
-3, Huechuraba
-3, Pedro Aguirre Cerda
-4, Ñuñoa
-4, La Granja
-4, Padre Hurtado
-4, El Bosque
-4, San Ramón
-4, Renca
-4, Maipú
-5, Padre Hurtado
-5, Lo Prado
+3, Recoleta
+4, Macul
+4, La Cisterna
+4, Pirque
+4, Puente Alto
+4, Quilicura
+4, San José de Maipo
+5, Puente Alto
+5, Pirque
+5, El Bosque
+5, Huechuraba
+5, Lo Barnechea
 5, Lo Espejo
-5, Independencia
-6, San José de Maipo
+5, Estación Central
+5, Las Condes
+6, La Pintana
+6, Cerrillos
+6, La Florida
+6, San Miguel
+6, La Reina
+6, Santiago
+6, Lo Prado
+6, San Bernardo
 7, El Bosque
-7, Pirque
-7, San Bernardo
-7, Ñuñoa
-7, La Granja
-7, Lo Espejo
-7, Recoleta
+7, Cerrillos
+7, San Miguel
 7, San José de Maipo
+8, La Granja
+8, Lo Prado
 8, Cerro Navia
-8, Macul
-8, Peñalolén
-8, Pedro Aguirre Cerda
-8, Huechuraba
-9, El Bosque
-9, Lo Prado
-9, San Ramón
-9, San José de Maipo
-10, Quinta Normal
-10, Maipú
-10, Quilicura
-10, Recoleta
-10, Cerro Navia
-11, Conchalí
-11, Pudahuel
-11, Peñalolén
-11, San Miguel
-11, San José de Maipo
-11, Quinta Normal
-12, Pudahuel
-12, La Granja
-12, Cerrillos
-13, San Joaquín
-13, La Reina
-13, San Bernardo
-13, Recoleta
-13, Estación Central
-13, Renca
+9, San Miguel
+9, Pedro Aguirre Cerda
+9, Huechuraba
+10, Pirque
+10, San José de Maipo
+11, Estación Central
+11, Santiago
+11, Las Condes
+12, Independencia
+12, Maipú
+12, San Bernardo
+12, Padre Hurtado
+13, Pedro Aguirre Cerda
+13, El Bosque
 13, Quilicura
-14, San José de Maipo
-15, Independencia
-16, Lo Espejo
-16, San Ramón
-16, Cerro Navia
-17, Peñalolén
-17, San Miguel
-18, San José de Maipo
-18, Lo Prado
-19, Cerro Navia
-19, Macul
-19, Maipú
-19, Ñuñoa
-20, Quilicura
-20, Lo Prado
-20, La Granja
-20, San Joaquín
-20, Lo Barnechea
-20, Maipú
-20, Santiago
-20, Renca
-21, San Miguel
-21, Pudahuel
-21, Puente Alto
-21, Recoleta
-21, Maipú
-21, Lo Espejo
-21, Providencia
+13, Quinta Normal
+13, San José de Maipo
+13, Maipú
+13, Lo Espejo
+14, Lo Prado
+14, Cerro Navia
+14, Macul
+14, San Ramón
+15, La Florida
+15, Lo Barnechea
+16, San José de Maipo
+16, Pudahuel
+16, La Florida
+16, Huechuraba
+16, San Joaquín
+16, Padre Hurtado
+16, Macul
+16, Peñalolén
+17, Recoleta
+17, Renca
+18, La Reina
+18, Lo Barnechea
+19, Lo Barnechea
+19, San Bernardo
+19, La Pintana
+19, San Ramón
+19, Pedro Aguirre Cerda
+19, Lo Espejo
+19, Pirque
+19, Conchalí
+20, San Miguel
+20, Pirque
+20, La Reina
+20, San Bernardo
+20, La Pintana
 21, La Florida
-22, La Reina
-22, Peñalolén
-22, Quilicura
+21, Pedro Aguirre Cerda
+21, San Joaquín
+21, Providencia
+21, Maipú
+22, El Bosque
+22, San Joaquín
 22, Las Condes
-23, Quinta Normal
-23, El Bosque
-23, La Reina
+22, Quinta Normal
+22, San Ramón
+22, La Pintana
+22, Lo Prado
+22, La Granja
 23, Independencia
-23, Pudahuel
-24, Providencia
-24, San José de Maipo
-24, San Miguel
-24, Recoleta
-24, La Pintana
-25, La Reina
-25, Lo Prado
-25, La Granja
+24, Cerrillos
+24, Puente Alto
+24, Santiago
+24, Renca
+24, Cerro Navia
+24, Huechuraba
+24, Pedro Aguirre Cerda
 25, Renca
-25, Providencia
-26, El Bosque
-26, Quilicura
-26, La Reina
-26, Renca
-26, Cerro Navia
-27, Ñuñoa
+26, La Cisterna
+26, Pudahuel
+26, San Ramón
+26, San Miguel
+26, San Joaquín
+26, Independencia
+26, Providencia
 27, La Pintana
-27, San José de Maipo
-28, Ñuñoa
-28, Providencia
-28, Conchalí
-28, Estación Central
-28, San José de Maipo
-28, Santiago
-29, Macul
-29, San Ramón
-29, Quinta Normal
-29, La Granja
-29, Lo Barnechea
-29, Padre Hurtado
+28, Pudahuel
+28, Independencia
+28, La Florida
+28, Lo Espejo
+28, Renca
+28, Recoleta
+28, Pedro Aguirre Cerda
+29, Providencia
+29, Las Condes
+29, Lo Prado
 29, La Pintana
-30, Lo Prado
+29, Santiago
+29, San Ramón
 30, Ñuñoa
-31, San Ramón
+30, Puente Alto
+30, Estación Central
+30, Huechuraba
+30, Renca
+30, La Florida
+30, Santiago
+30, Pudahuel
 31, Santiago
-32, Renca
-32, La Granja
-32, Conchalí
-32, Padre Hurtado
-33, Conchalí
-33, Renca
-34, Cerro Navia
-34, Conchalí
-34, Lo Espejo
-34, San Miguel
+31, La Pintana
+31, Quilicura
+31, Renca
+31, Pedro Aguirre Cerda
+31, San José de Maipo
+31, La Reina
+32, Las Condes
+32, Macul
+32, Pudahuel
+32, Pirque
+32, Lo Barnechea
+32, Santiago
+33, La Reina
+33, La Florida
+33, Las Condes
+33, Huechuraba
+33, Maipú
+33, Pudahuel
+33, Estación Central
+33, Pirque
+34, Huechuraba
+34, Quinta Normal
+34, La Pintana
+34, San Ramón
+34, Santiago
+34, Las Condes
 34, La Reina
-34, Cerrillos
-34, Macul
-35, Pedro Aguirre Cerda
-35, Conchalí
-35, La Granja
-35, Huechuraba
+35, Cerrillos
+35, La Pintana
+35, San Ramón
+35, La Cisterna
+35, Lo Prado
+35, San Miguel
+35, Padre Hurtado
+36, Santiago
 36, Padre Hurtado
-36, Independencia
-36, Pirque
-36, Maipú
-36, Quinta Normal
-36, El Bosque
-36, Cerro Navia
+36, San Bernardo
+36, Providencia
 36, Macul
-37, La Florida
-37, Cerrillos
-38, Recoleta
-38, El Bosque
-38, Puente Alto
-38, Lo Espejo
-38, Renca
+37, Quilicura
+37, Pirque
+37, Las Condes
+38, Providencia
+38, San Ramón
+38, La Pintana
 38, La Cisterna
-39, Ñuñoa
-40, Quinta Normal
-40, Independencia
-40, San Bernardo
-40, Conchalí
-40, Cerrillos
-40, Huechuraba
-41, San José de Maipo
-41, La Cisterna
-42, San Miguel
-42, Providencia
-42, Huechuraba
-42, Lo Barnechea
-42, Padre Hurtado
-42, Cerrillos
-42, Lo Espejo
+38, Quilicura
+38, Quinta Normal
+38, San Bernardo
+38, Puente Alto
+39, La Cisterna
+39, Huechuraba
+39, Recoleta
+39, Quinta Normal
+40, La Florida
+41, Santiago
+41, Pedro Aguirre Cerda
+41, Huechuraba
+41, Cerro Navia
+41, Quinta Normal
+41, Puente Alto
+41, El Bosque
+41, Peñalolén
+42, La Pintana
+42, Ñuñoa
+42, Puente Alto
+42, Cerro Navia
+42, Recoleta
+43, San José de Maipo
+43, Macul
+43, Peñalolén
+43, Providencia
+43, San Miguel
+43, Conchalí
 43, Lo Prado
-43, Recoleta
-43, La Pintana
-43, Pirque
-43, Huechuraba
-43, Pudahuel
-44, San José de Maipo
-45, Macul
-45, Renca
-45, San Bernardo
-45, San Ramón
-46, La Cisterna
-46, La Florida
-46, Lo Prado
-47, La Pintana
-47, Quilicura
-47, Peñalolén
-48, La Reina
-48, Lo Espejo
-49, La Pintana
+44, San Bernardo
+44, Renca
+44, Quinta Normal
+44, Las Condes
+44, La Reina
+44, Estación Central
+44, Pirque
+45, Peñalolén
+45, Pudahuel
+45, El Bosque
+45, Conchalí
+45, Huechuraba
+46, La Reina
+46, El Bosque
+46, Pirque
+47, Quinta Normal
+47, Estación Central
+48, San Joaquín
+48, Estación Central
 49, Cerro Navia
-49, Lo Espejo
+49, La Reina
+49, Padre Hurtado
+49, Independencia
 49, San José de Maipo
-49, Puente Alto
+49, Estación Central
+49, Conchalí
+49, Macul

@@ -1,51 +1,51 @@
-id, direccion, comuna, id_jefe
-0, Futuratech, MATAMOROS NO. 225, Macul, 0
-1, El Gran Abasto, CALLE MATAMOROS NO. 11, Conchalí, 1
-2, Quantique Corp, ALDAMA ESQ. 20 DE NOVIEMBRE, La Granja, 2
-3, nextGen Technology Co., AV. INDEPENDENCIA NO. 241, Lo Barnechea, 3
-4, Centurión Market, AV. 20 DE NOVIEMBRE NO. 1081, Macul, 4
-5, Neocyber Technology, AV. INDEPENDENCIA NO. 85, El Bosque, 5
-6, Chanel, AV.INDEPENDENCIA NO.1010, La Florida, 6
-7, Hábitat Market, SAN FRANCISCO 1085, San Ramón, 7
-8, H&M, AV. INDEPENDENCIA NO 145, Pirque, 8
-9, Ahorra Max, AV. INDEPENDENCIA NO. 405, Lo Barnechea, 9
-10, Adidas, AV. 5 DE MAYO NO. 583, La Reina, 10
-11, Levis, CALLE PRINCIPAL S/N., Lo Prado, 11
-12, Galaktik Solutions, AV. 20 DE NOVIEMBRE NO. 1139-B, Huechuraba, 12
-13, Techncorp, AV. 5 DE MAYO NO. 1230-B, San Joaquín, 13
-14, La Canasta Del Ahorro, AV. INDEPENDENCIA NO.745-BIS, Quinta Normal, 14
-15, Banana Republic, IGNACIO ZARAGOZA NO 303, Lo Barnechea, 15
-16, Metrilogic Solutions, KM.5 CARRET.TUX-PTE. CARACOL, San Joaquín, 16
-17, Aeropostale, INDEPENDENCIA NO 1231 A, La Granja, 17
-18, Automate.me, AV. INDEPENDENCIA NO. 748, La Florida, 18
-19, Except Software, GUERRERO ESC MURO, Renca, 19
-20, Sincronía Market, ADOLFO LOPEZ MATEOS NO 25, San Bernardo, 20
-21, Volantis Corp, AV. INDEPENDENCIA NO. 1282-A, La Granja, 21
-22, Renewergy Technology, CALLE MATAMOROS NO.280, Recoleta, 22
-23, Mercado Monoprix, AV. INDEPENDENCIA N. 1282-A, La Pintana, 23
-24, Vivid Technology, CALLE MATAMOROS NO. 123, Macul, 24
-25, Abaexpress, AV. 5 DE MAYO NO 1253, San José de Maipo, 25
-26, Giorgio Armani, BLVD. FRANCISCO FERNANDEZ ARTEAGA NO.1984, Pedro Aguirre Cerda, 26
-27, True Progress, C 1O DE MAYO NO 4, La Florida, 27
-28, Quantic Corp, AV. INDEPENDENCIA NO. 720, La Granja, 28
-29, Merque Pues!, PONCIANO ARRIAGA NO. 43, Quilicura, 29
-30, Merca Ya!, AV. 5 DE MAYO No. 1350, San Miguel, 30
-31, Invictus Technology, CARR. A OJITLAN NO. 951-A, La Granja, 31
-32, Webologic Solutions, PROL. AV. 5 DE MAYO NO. 1145- A, La Cisterna, 32
-33, Minimercado Los Sáuces, AV. INDEPENDENCIA S/N EXT. DEL MERCADO CENTRAL ESQ. BENITO JUAREZ, San Bernardo, 33
-34, Creatique Inc, AV. INDEPENDENCIA NO. 374, El Bosque, 34
-35, Mercahorro, AV. INDEPENDENCIA NO. 1029, La Florida, 35
-36, Solarius Technology, BLVD. BENITO JUAREZ ESQ. 20 DE NOVIEMBRE S/N, Las Condes, 36
-37, Green Solutions, AV. INDEPENDENCIA N0.677, Recoleta, 37
-38, American Eable, AV. 5 DE MAYO NO. 357, Ñuñoa, 38
-39, Betage Studios, AV.INDEPENDENCIA NO. 678, La Cisterna, 39
-40, Salorix Systems, AV. LIBERTAD NO. 1046, Lo Barnechea, 40
-41, Futuralis Solutions, DOMICILIO CONOCIDO KM.21, Huechuraba, 41
-42, Innova Solutions, AV. 5 DE MAYO NO 1911, Huechuraba, 42
-43, El Gran Expreso, ALDAMA NO. 720, Lo Barnechea, 43
-44, La Cesta Del Ahorro, AV. INDEPENDENCIA NO 1125, Ñuñoa, 44
-45, Bloom Market, AV. INDEPENDENCIA NO. 718, Maipú, 45
-46, Pull&Bear, AV. INDEPENDENCIA NO.147, Lo Prado, 46
-47, Merca Opción, AV. LIBERTAD NO. 956, Macul, 47
-48, Red Market, AV. 5 DE MAYO 1634, Recoleta, 48
-49, Zara, INT. PASAJE COMERCIAL LOCAL No. 4, Puente Alto, 49
+id, nombre, direccion, comuna, id_jefe
+0, Futuratech, AV. LIBERTAD NO. 56, El Bosque, 0
+1, Neocyber Technology, AV. INDEPENDENCIA NO. 409, Santiago, 1
+2, Mercosto, KM. 2 CARRETERA TUXTEPEC- VALLE NACIONAL, Lo Espejo, 2
+3, Mini Market Gran Ahorrar, AV. INDEPENDENCIA NO 511 A, San Miguel, 3
+4, Merque Pues!, AV. 20 DE NOVIEMBRE NO. 963, Pedro Aguirre Cerda, 4
+5, Quantique Corp, AV. 5 DE MAYO NO. 631, La Pintana, 5
+6, H&M, CALLE MATAMOROS NO. 325, La Reina, 6
+7, Ecologiq Solutions, INT. PASAJE COMERCIAL LOCAL No. 4, La Cisterna, 7
+8, Minimarket Los Incas, MATAMOROS NO. 327, San Bernardo, 8
+9, Volantis Corp, MATAMOROS 2, Quinta Normal, 9
+10, Effectus Solutions, CALLE JUAREZ NO. 855, Cerro Navia, 10
+11, Chanel, KM.13 CARRET. CD. ALEMAN-TUXTEPEC, Pirque, 11
+12, Lacoste, AV. INDEPENDENCIA N0.900, Renca, 12
+13, Except Software, PONCIANO ARRIAGA NO 45, Renca, 13
+14, Adidas, LIBERTAD ESQ. MORELOS 834, Peñalolén, 14
+15, Abaexpress, CALLE MATAMOROS NO. 236, Las Condes, 15
+16, Tommy, AV. 20 DE NOVIEMBRE NO. 1121, Lo Espejo, 16
+17, Aeropostale, MATAMOROS NO 350, San Joaquín, 17
+18, Minimarket Cosmopolitan, LIBERTAD NO. 2005, Santiago, 18
+19, Hábitat Market, PONCIANO ARRIAGA NO. 43, Ñuñoa, 19
+20, Quantic Corp, AV. INDEPENDENCIA 918, Quinta Normal, 20
+21, Progressive Technology Solutions, AV. INDEPENDENCIA NO. 1029, Cerrillos, 21
+22, Rica Vista Market, AV. INDEPENDENCIA NO. 500, La Cisterna, 22
+23, Progressiva, AV. 20 DE NOVIEMBRE NO 1053, La Pintana, 23
+24, Centurión Market, BLVD. BENITO JUAREZ 1684, Estación Central, 24
+25, Vivid Technology, C. ZARAGOZA NO. 329, Pedro Aguirre Cerda, 25
+26, InDesign, AV. 20 DE NOVIEMBRE NO. 1210, La Granja, 26
+27, Windy Technology, AV. 20 DE NOVIEMBRE NO.1041, San Joaquín, 27
+28, Zara, CALLE MATAMOROS NO. 40, Santiago, 28
+29, Mercado Monoprix, AV 5 DE MAYO NO. 1006, Lo Espejo, 29
+30, Gourmarket, CALLE MATAMOROS NO. 123, Peñalolén, 30
+31, Renewergy Technology, AV DANIEL SOTO 738, San Ramón, 31
+32, La Canasta Del Ahorro, CALLE MORELOS NO. 72-B, La Florida, 32
+33, Pull&Bear, AV. 5 DE MAYO NO. 660, San Bernardo, 33
+34, Merca Express, INDEPENDENCIA 748, Padre Hurtado, 34
+35, Impacto Market, AV. 5 DE MAYO NO. 2061 ESQ. BLVD.BENITO JUAREZ, Quinta Normal, 35
+36, True Progress, INDEPENDENCIA NO. 427, San Bernardo, 36
+37, Salorix Systems, OCAMPO 254-B, Maipú, 37
+38, Minimercado Los Sáuces, LAZARO CARDENAS NO.195, Renca, 38
+39, Ralph Lauren, AV. 5 DE MAYO NO 954, Maipú, 39
+40, Automate.me, CALLE OCAMPO NO. 254, Huechuraba, 40
+41, Triad Technology, AV. INDEPENDENCIA NO.677, El Bosque, 41
+42, Merca Opción, AV. 20 DE NOVIEMBRE NO 1046, Las Condes, 42
+43, Flow Follow, CALLE ITURBIDE NO. 52, Macul, 43
+44, Ahorra Max, JESUS CARRANZA NO. 139, La Cisterna, 44
+45, Hollister, INDEPENDENCIA NO. 569 B, Estación Central, 45
+46, La Gran Bonanza, AV. INDEPENDENCIA NO. 47, Pedro Aguirre Cerda, 46
+47, Automotique Nation, AV. 20 DE NOV. NO. 881 ESQ. ALDAMA, El Bosque, 47
+48, Mercahorro, KM 3.5 CARRETERA TUXTEPEC CD. ALEMAN, El Bosque, 48
+49, Green Solutions, AV. INDEPENDENCIA NO. 684 ALTOS, Independencia, 49
