@@ -1,51 +1,21 @@
-id, nombre, direccion, comuna, id_jefe
-0, Futuratech, AV. LIBERTAD NO. 56, El Bosque, 0
-1, Neocyber Technology, AV. INDEPENDENCIA NO. 409, Santiago, 1
-2, Mercosto, KM. 2 CARRETERA TUXTEPEC- VALLE NACIONAL, Lo Espejo, 2
-3, Mini Market Gran Ahorrar, AV. INDEPENDENCIA NO 511 A, San Miguel, 3
-4, Merque Pues!, AV. 20 DE NOVIEMBRE NO. 963, Pedro Aguirre Cerda, 4
-5, Quantique Corp, AV. 5 DE MAYO NO. 631, La Pintana, 5
-6, H&M, CALLE MATAMOROS NO. 325, La Reina, 6
-7, Ecologiq Solutions, INT. PASAJE COMERCIAL LOCAL No. 4, La Cisterna, 7
-8, Minimarket Los Incas, MATAMOROS NO. 327, San Bernardo, 8
-9, Volantis Corp, MATAMOROS 2, Quinta Normal, 9
-10, Effectus Solutions, CALLE JUAREZ NO. 855, Cerro Navia, 10
-11, Chanel, KM.13 CARRET. CD. ALEMAN-TUXTEPEC, Pirque, 11
-12, Lacoste, AV. INDEPENDENCIA N0.900, Renca, 12
-13, Except Software, PONCIANO ARRIAGA NO 45, Renca, 13
-14, Adidas, LIBERTAD ESQ. MORELOS 834, Peñalolén, 14
-15, Abaexpress, CALLE MATAMOROS NO. 236, Las Condes, 15
-16, Tommy, AV. 20 DE NOVIEMBRE NO. 1121, Lo Espejo, 16
-17, Aeropostale, MATAMOROS NO 350, San Joaquín, 17
-18, Minimarket Cosmopolitan, LIBERTAD NO. 2005, Santiago, 18
-19, Hábitat Market, PONCIANO ARRIAGA NO. 43, Ñuñoa, 19
-20, Quantic Corp, AV. INDEPENDENCIA 918, Quinta Normal, 20
-21, Progressive Technology Solutions, AV. INDEPENDENCIA NO. 1029, Cerrillos, 21
-22, Rica Vista Market, AV. INDEPENDENCIA NO. 500, La Cisterna, 22
-23, Progressiva, AV. 20 DE NOVIEMBRE NO 1053, La Pintana, 23
-24, Centurión Market, BLVD. BENITO JUAREZ 1684, Estación Central, 24
-25, Vivid Technology, C. ZARAGOZA NO. 329, Pedro Aguirre Cerda, 25
-26, InDesign, AV. 20 DE NOVIEMBRE NO. 1210, La Granja, 26
-27, Windy Technology, AV. 20 DE NOVIEMBRE NO.1041, San Joaquín, 27
-28, Zara, CALLE MATAMOROS NO. 40, Santiago, 28
-29, Mercado Monoprix, AV 5 DE MAYO NO. 1006, Lo Espejo, 29
-30, Gourmarket, CALLE MATAMOROS NO. 123, Peñalolén, 30
-31, Renewergy Technology, AV DANIEL SOTO 738, San Ramón, 31
-32, La Canasta Del Ahorro, CALLE MORELOS NO. 72-B, La Florida, 32
-33, Pull&Bear, AV. 5 DE MAYO NO. 660, San Bernardo, 33
-34, Merca Express, INDEPENDENCIA 748, Padre Hurtado, 34
-35, Impacto Market, AV. 5 DE MAYO NO. 2061 ESQ. BLVD.BENITO JUAREZ, Quinta Normal, 35
-36, True Progress, INDEPENDENCIA NO. 427, San Bernardo, 36
-37, Salorix Systems, OCAMPO 254-B, Maipú, 37
-38, Minimercado Los Sáuces, LAZARO CARDENAS NO.195, Renca, 38
-39, Ralph Lauren, AV. 5 DE MAYO NO 954, Maipú, 39
-40, Automate.me, CALLE OCAMPO NO. 254, Huechuraba, 40
-41, Triad Technology, AV. INDEPENDENCIA NO.677, El Bosque, 41
-42, Merca Opción, AV. 20 DE NOVIEMBRE NO 1046, Las Condes, 42
-43, Flow Follow, CALLE ITURBIDE NO. 52, Macul, 43
-44, Ahorra Max, JESUS CARRANZA NO. 139, La Cisterna, 44
-45, Hollister, INDEPENDENCIA NO. 569 B, Estación Central, 45
-46, La Gran Bonanza, AV. INDEPENDENCIA NO. 47, Pedro Aguirre Cerda, 46
-47, Automotique Nation, AV. 20 DE NOV. NO. 881 ESQ. ALDAMA, El Bosque, 47
-48, Mercahorro, KM 3.5 CARRETERA TUXTEPEC CD. ALEMAN, El Bosque, 48
-49, Green Solutions, AV. INDEPENDENCIA NO. 684 ALTOS, Independencia, 49
+id_tienda,nombre,direccion,comuna,id_jefe
+0,Windy Technology,AV. INDEPENDENCIA NO. 720,San José de Maipo,0
+1,Tommy,LIBERTAD NO. 2005,La Granja,1
+2,Puma,20 DE NOVIEMBRE NO. 1081,Santiago,2
+3,La Gran Bonanza,AV INDEPENDENCIA NO. 545-B,Huechuraba,3
+4,Abaexpress,AV. SEBASTIAN ORTIZ NO.229,San José de Maipo,4
+5,Banana Republic,AV. INDEPENDENCIA N0.670,Quinta Normal,5
+6,Gourmarket,AV. 20 DE NOVIEMBRE NO.1022,Huechuraba,6
+7,Giorgio Armani,CALLE MATAMOROS NO. 78,Padre Hurtado,7
+8,Minimercado Los Sáuces,INDEPENDENCIA 85,Huechuraba,8
+9,Ahorra Max,AV. INDEPENDENCIA NO 117,San Joaquín,9
+10,El Gran Expreso,MIGUEL HIDALGO NO 689,Las Condes,10
+11,Flow Follow,AV. 5 DE MAYO NO 1911,Huechuraba,11
+12,Pull&Bear,AV. INDEPENDENCIA NO 145,Padre Hurtado,12
+13,Ralph Lauren,CALLE MATAMOROS NO. 237,El Bosque,13
+14,Neocyber Technology,MATAMOROS NO. 225,Pudahuel,14
+15,La Canasta Del Ahorro,AV. PRINCIPAL S/N.,Lo Espejo,15
+16,InDesign,AV.INDEPENDENCIA NO. 246,Santiago,16
+17,Hábitat Market,NICOLAS BRAVO NO 1270,La Reina,17
+18,Hollister,AV. INDEPENDENCIA NO.587,Maipú,18
+19,nextGen Technology Co.,AV. INDEPENDENCIA NO. 240,La Florida,19
